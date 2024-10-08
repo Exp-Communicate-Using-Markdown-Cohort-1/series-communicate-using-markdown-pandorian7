@@ -6,3 +6,7 @@
 ###### This is header 6
 
 ![Image of the milkyway](https://images4.alphacoders.com/153/153316.jpg)
+
+```
+print("Hello, World!")
+```
