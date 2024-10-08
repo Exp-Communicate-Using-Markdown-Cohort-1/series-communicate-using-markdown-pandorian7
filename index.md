@@ -10,3 +10,11 @@
 ```
 print("Hello, World!")
 ```
+
+- [x] Python
+- [x] Javascript
+- [x] C++
+- [x] C
+- [ ] Rust
+- [ ] Go
+- [ ] and more...
